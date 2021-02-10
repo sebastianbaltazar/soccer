@@ -1,1 +1,1 @@
-echo 'Hola a mi'
+echo 'Hola a curso'
